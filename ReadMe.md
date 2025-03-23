@@ -31,7 +31,7 @@ The Task is to develop a menu-driven program to control and monitor devices like
 ## Example (Output)
 
 Enter number of rooms: 3  
-Initializing system...  
+Initializing system...  aa
 
 ===== Smart Home Menu =====  
 1. Toggle Light  
