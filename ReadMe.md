@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cRuHHjRd)
 # Assignment | C Programming 
 
 A Smart Home Automation System is being designed to manage and monitor different appliances and sensors in a house. Since the hardware is not available, You will simulate this system using standard C programming with GCC.
@@ -30,7 +31,7 @@ The Task is to develop a menu-driven program to control and monitor devices like
 ## Example (Output)
 
 Enter number of rooms: 3  
-Initializing system...  
+Initializing system...  aa
 
 ===== Smart Home Menu =====  
 1. Toggle Light  
